@@ -1,0 +1,30 @@
+.header{
+    background-image: linear-gradient(rgb(115, 221, 16),rgb(245, 245, 35));
+    background-size: 50px;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: orange;
+    
+}
+
+h2{
+    text-align: center;
+    color:rgb(89, 14, 124);
+}
+
+h1{
+    text-align: center;
+    color: rgb(182, 13, 13);
+}
+
+.item image{
+    border-color:black;
+}
+
+.item p b{
+    color: green;
+}
+
+
